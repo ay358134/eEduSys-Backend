@@ -1,4 +1,5 @@
 const allowedOrigins = [
+  "https://zorotaro.netlify.app",
   "http://localhost:3000",
 ];
 
